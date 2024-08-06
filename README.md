@@ -95,17 +95,11 @@ I thrive on developing scalable and maintainable code, utilizing my solid unders
 |-----|---------|---------|------------|--------|-------|---------|
 |<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="vscode" alt="vscode" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" title="Jupyter" alt="Jupyter" width="55" height="55"/>|<img src="https://res.cloudinary.com/dtdhmbtcg/image/upload/v1717313305/Microsoft_365__2022_.svg_lfzbte.png" title="office365" alt="office365" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg" title="Pycharm" alt="Pycharm" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" title="Canva" alt="Canva" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg" title="Arduino" alt="Arduino" width="55" height="55"/>|
 
-### Libraries: 
+### <span style="color:#32CD32;">Libraries<span/> and <span style="color:#4F7942;">OS: <span/>:
 
-| Scikit Learn | Seaborn | Pandas | Spring | Open CV |
-|--------------|---------|--------|--------|---------|
-| <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" title="Scikit-Learn" alt="Scikit-Learn" width="55" height="55"/> | <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" title="Seaborn" alt="Seaborn" width="55" height="55"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" width="55" height="55"/> | <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" title="Spring" alt="Spring" width="55" height="55"/> | <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" title="opencv2" alt="opencv2" width="55" height="55"/> |
-
-### OS: ❤️ (linux one love)
-
-| Ubuntu | Windows |
-|--------|---------|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" title="Ubuntu" alt="Ubuntu" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/windows11/windows11-original.svg" title="Windows11" alt="Windows11" width="55" height="55"/> | 
+| Scikit Learn | Seaborn | Pandas | Spring | Open CV | Ubuntu | Windows |
+|--------------|---------|--------|--------|---------|--------|---------|
+| <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" title="Scikit-Learn" alt="Scikit-Learn" width="55" height="55"/> | <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" title="Seaborn" alt="Seaborn" width="55" height="55"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" width="55" height="55"/> | <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" title="Spring" alt="Spring" width="55" height="55"/> | <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" title="opencv2" alt="opencv2" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" title="Ubuntu" alt="Ubuntu" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/windows11/windows11-original.svg" title="Windows11" alt="Windows11" width="55" height="55"/> | 
 
 ### Skills:
 
