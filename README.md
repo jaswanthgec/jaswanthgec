@@ -185,8 +185,6 @@ I thrive on developing scalable and maintainable code, utilizing my solid unders
   </tbody>
 </table>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=jaswanthgec&label=Profile%20views&color=0e75b6&style=flat" alt="jaswanthgec" /> </p>
-
 ### Entertainment
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <p align="center">
