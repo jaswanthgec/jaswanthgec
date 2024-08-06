@@ -33,7 +33,7 @@ I thrive on developing scalable and maintainable code, utilizing my solid unders
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/cw84QZKd)
 
 <p align="center">
-<a href="https://www.youtube.com/c/https://www.youtube.com/@jassugec8106" target="blank">
+<a href="https://www.youtube.com/@jassugec8106" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@jassugec8106" height="35" width="45" />
 </a>
 <a href="https://twitter.com/k_jaswanth3" target="blank">
@@ -66,6 +66,7 @@ I thrive on developing scalable and maintainable code, utilizing my solid unders
 - [Automated Online Exam](https://github.com/jaswanthgec/Automated-Online-Exam) 
 - [Virtual Labs Simulator](https://github.com/jaswanthgec/IIC-Virtual-Labs)
 - [Bar Code Scanner](https://github.com/jaswanthgec/Bar-Code-Scanner.git)
+- [Visualizing app](https://github.com/jaswanthgec/Streamlit_practice)
 
 ## 🖥️ Languages and Skills: 🚀
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
