@@ -31,7 +31,6 @@ I thrive on developing scalable and maintainable code, utilizing my solid unders
 [![Outlook](https://img.shields.io/badge/Outlook-CC313D?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:21481A5457@gecgudlavallerumic.in)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jaswanth-kollipara-896443237/)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/cw84QZKd)
-[![Collab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)](https://developers.google.com/profile/u/jaswanthkollipara)
 
 <p align="center">
 <a href="https://www.youtube.com/c/https://www.youtube.com/@jassugec8106" target="blank">
@@ -43,12 +42,6 @@ I thrive on developing scalable and maintainable code, utilizing my solid unders
 <a href="https://stackoverflow.com/users/26410375" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="26410375" height="35" width="45" />
 </a>
-</a>
-<a href="https://dribbble.com/jaswanth7255" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="jaswanth7255" height="35" width="45" />
-</a>
-<a href="https://www.behance.net/kollipajaswant" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="kollipajaswant" height="35" width="45" />
 </a>
 <a href="https://www.facebook.com/profile.php?id=100077865823539" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kollipara jaswanth" height="35" width="45" />
@@ -64,9 +57,6 @@ I thrive on developing scalable and maintainable code, utilizing my solid unders
 </a>
 <a href="https://auth.geeksforgeeks.org/user/kolliparajaswanth030" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="kolliparajaswanth030" height="35" width="45" />
-</a>
-<a href="https://dev.to/kollipara_jaswanth" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="kollipara_jaswanth" height="35" width="45" />
 </a>
 </p>
 
